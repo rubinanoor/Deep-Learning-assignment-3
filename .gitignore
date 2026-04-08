@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large files (optional)
+*.h5
+*.pt
+*.pth
+*.zip
+
+# OS
+.DS_Store
