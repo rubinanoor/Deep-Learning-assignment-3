@@ -7,8 +7,6 @@ __pycache__/
 
 # Large files (optional)
 *.h5
-*.pt
-*.pth
 *.zip
 
 # OS
